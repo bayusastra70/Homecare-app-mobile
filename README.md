@@ -5,27 +5,33 @@
 [![PHP](https://img.shields.io/badge/PHP-8.2-purple?logo=php)](https://www.php.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Ganesha Homecare** adalah platform layanan homecare yang terdiri dari **versi mobile** dan **website**, yang memudahkan pasien lansia atau pasca-rawat rumah sakit dalam mengatur layanan perawatan di rumah.  
+**Ganesha Homecare** is a homecare service platform consisting of a **mobile app** and a **website**, designed to help elderly patients or post-hospitalization patients manage in-home care services.
 
-- **Website** digunakan oleh admin untuk mengelola layanan, jadwal, pesanan, dan notifikasi.  
-- **Mobile App** digunakan oleh pasien untuk melihat layanan, memesan, dan menerima notifikasi real-time.  
+- **Website** is used by admins to manage services, schedules, orders, and notifications.  
+- **Mobile App** is used by patients to browse services, place orders, and receive real-time notifications.
 
 ---
 
-## 🚀 Fitur Utama
+## 🚀 Key Features
 
 ### Mobile App (Flutter)
-- **Autentikasi & Keamanan**: Login, Register, Token Refresh, Logout  
-- **Profil & Alamat**: Edit profil, alamat dengan dropdown dinamis (Kabupaten → Kecamatan → Desa), prefill otomatis  
-- **Layanan & Pemesanan**: Lihat daftar layanan, tambah ke keranjang, checkout, konfirmasi alamat  
-- **Manajemen Pesanan**: Lihat daftar pesanan, status: Pending / Accepted / Paying, aksi: Detail / Batalkan  
-- **Notifikasi Real-Time**: Menerima push notification ketika admin website menjadwalkan layanan atau perubahan status pesanan  
+- **Authentication & Security**: Login, Register, Token Refresh, Logout  
+- **Profile & Address**: Edit user profile, manage address with dynamic dropdowns (Regency → District → Village), auto-prefill  
+- **Services & Orders**: View service list, add to cart, checkout, confirm address  
+- **Order Management**: View order list, status: Pending / Accepted / Paying, actions: Detail / Cancel  
+- **Real-Time Notifications**: Receive push notifications when admins schedule services or update order status
 
-### Website (Laravel)
-- **Manajemen Layanan**: Tambah, edit, hapus layanan homecare  
-- **Manajemen Pesanan & Jadwal**: Admin dapat membuat janji temu, menetapkan perawat, dan mengubah status pesanan  
-- **Notifikasi ke Mobile**: Ketika admin menginput jadwal janji temu, pasien menerima notifikasi push di mobile app melalui FCM  
-- **Dashboard Admin**: Monitoring pesanan, pengguna, dan laporan layanan  
+> ⚠️ The admin website is only used for processing orders and scheduling visits; its source code is not included in this repository.
 
+---
 
+## 📖 References
+- [Flutter Docs](https://flutter.dev/docs)  
+- [Laravel Docs](https://laravel.com/docs)  
+- [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)  
+- [LocationIQ API](https://locationiq.com)
 
+---
+
+## 📜 License
+MIT License © 2026

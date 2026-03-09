@@ -23,7 +23,29 @@
 
 > ⚠️ The admin website is only used for processing orders and scheduling visits; its source code is not included in this repository.
 
----
+
+
+## Screenshots
+
+### Home Page
+![Home](./screenshots/homepage.png)
+
+### Service
+![service](./screenshots/service.png)
+
+### Cart
+![cart](./screenshots/cart.png)
+
+### Checkoutnotifikations
+![Checkoutnotifikations](./screenshots/checkoutnotifikations.png)
+
+### Payment
+![cart](./screenshots/payment.png)
+
+### History
+![cart](./screenshots/history.png)
+
+
 
 ## 📖 References
 - [Flutter Docs](https://flutter.dev/docs)  

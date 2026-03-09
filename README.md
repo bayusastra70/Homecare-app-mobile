@@ -29,7 +29,7 @@
 ### Home Page
 
 <p align="center">
-  <img src="./screenshots/homepage.png" width="500">
+  <img src="./screenshots/homepage.png" width="200px">
 </p>
 
 <br>

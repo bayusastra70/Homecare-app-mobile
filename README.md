@@ -24,14 +24,12 @@
 > ⚠️ The admin website is only used for processing orders and scheduling visits; its source code is not included in this repository.
 
 
-
-
 ## Screenshots
 
 ### Home Page
 
 <p align="center">
-  <img src="./screenshots/homepage.png" width="700">
+  <img src="./screenshots/homepage.png" width="500">
 </p>
 
 <br>
@@ -39,7 +37,7 @@
 ### Service
 
 <p align="center">
-  <img src="./screenshots/service.png" width="700">
+  <img src="./screenshots/service.png" width="500">
 </p>
 
 <br>
@@ -47,7 +45,7 @@
 ### Cart
 
 <p align="center">
-  <img src="./screenshots/cart.png" width="700">
+  <img src="./screenshots/cart.png" width="500">
 </p>
 
 <br>
@@ -55,7 +53,7 @@
 ### Checkout Notifications
 
 <p align="center">
-  <img src="./screenshots/checkoutnotifikations.png" width="700">
+  <img src="./screenshots/checkoutnotifikations.png" width="500">
 </p>
 
 <br>
@@ -63,7 +61,7 @@
 ### Payment
 
 <p align="center">
-  <img src="./screenshots/payment.png" width="700">
+  <img src="./screenshots/payment.png" width="500">
 </p>
 
 <br>
@@ -71,7 +69,7 @@
 ### History
 
 <p align="center">
-  <img src="./screenshots/history.png" width="700">
+  <img src="./screenshots/history.png" width="500">
 </p>
 
 

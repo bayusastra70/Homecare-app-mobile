@@ -25,25 +25,54 @@
 
 
 
+
 ## Screenshots
 
 ### Home Page
-![Home](./screenshots/homepage.png)
+
+<p align="center">
+  <img src="./screenshots/homepage.png" width="700">
+</p>
+
+<br>
 
 ### Service
-![service](./screenshots/service.png)
+
+<p align="center">
+  <img src="./screenshots/service.png" width="700">
+</p>
+
+<br>
 
 ### Cart
-![cart](./screenshots/cart.png)
 
-### Checkoutnotifikations
-![Checkoutnotifikations](./screenshots/checkoutnotifikations.png)
+<p align="center">
+  <img src="./screenshots/cart.png" width="700">
+</p>
+
+<br>
+
+### Checkout Notifications
+
+<p align="center">
+  <img src="./screenshots/checkoutnotifikations.png" width="700">
+</p>
+
+<br>
 
 ### Payment
-![cart](./screenshots/payment.png)
+
+<p align="center">
+  <img src="./screenshots/payment.png" width="700">
+</p>
+
+<br>
 
 ### History
-![cart](./screenshots/history.png)
+
+<p align="center">
+  <img src="./screenshots/history.png" width="700">
+</p>
 
 
 

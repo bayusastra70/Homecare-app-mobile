@@ -29,7 +29,7 @@
 ### Home Page
 
 <p align="center">
-  <img src="./screenshots/homepage.png" width="200px">
+  <img src="./screenshots/homepage.png" width="150px">
 </p>
 
 <br>
@@ -37,7 +37,7 @@
 ### Service
 
 <p align="center">
-  <img src="./screenshots/service.png" width="500">
+  <img src="./screenshots/service.png" width="150px">
 </p>
 
 <br>
@@ -45,7 +45,7 @@
 ### Cart
 
 <p align="center">
-  <img src="./screenshots/cart.png" width="500">
+  <img src="./screenshots/cart.png" width="150px">
 </p>
 
 <br>
@@ -53,7 +53,7 @@
 ### Checkout Notifications
 
 <p align="center">
-  <img src="./screenshots/checkoutnotifikations.png" width="500">
+  <img src="./screenshots/checkoutnotifikations.png" width="150px">
 </p>
 
 <br>
@@ -61,7 +61,7 @@
 ### Payment
 
 <p align="center">
-  <img src="./screenshots/payment.png" width="500">
+  <img src="./screenshots/payment.png" width="150px">
 </p>
 
 <br>
@@ -69,7 +69,7 @@
 ### History
 
 <p align="center">
-  <img src="./screenshots/history.png" width="500">
+  <img src="./screenshots/history.png" width="150px">
 </p>
 
 
